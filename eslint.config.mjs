@@ -20,7 +20,7 @@ const config = [
     "next/core-web-vitals",
     "next/typescript",
     "standard",
-    // "plugin:tailwindcss/recommended", //commenting this because the latest version of the tailwind css does not support
+    // "plugin:tailwindcss/recommended",
     "prettier"
   ),
   {
